@@ -1,0 +1,21 @@
+{
+  "name": "promos",
+  "version": "1.0.0",
+  "description": "My rad Nuxt.js project",
+  "author": "JoeOMA",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "aos": "^3.0.0-beta.6",
+    "nuxt": "^2.0.0",
+    "vue-glide-js": "^1.3.14"
+  },
+  "devDependencies": {
+    "@nuxtjs/tailwindcss": "^1.0.0"
+  }
+}
